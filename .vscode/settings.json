@@ -4,6 +4,7 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "c:\\Users\\Admin\\Downloads\\jsoup-1.16.1.jar",
-        "c:\\Users\\dhruv\\Downloads\\jsoup-1.16.1.jar"
+        "c:\\Users\\dhruv\\Downloads\\jsoup-1.16.1.jar",
+        "jsoup-1.16.1.jar"
     ]
 }
